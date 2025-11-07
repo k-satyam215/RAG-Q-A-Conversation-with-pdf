@@ -20,4 +20,5 @@ duckdb
 pandas
 openai
 langchain-groq
+langchain-chroma
 tf-keras
