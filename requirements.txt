@@ -1,24 +1,33 @@
-langchain-openai
+# Core LangChain
 langchain
-python-dotenv
-langchain-community
 langchain_core
+langchain-community
+
+# Application Environment
 streamlit
-langchain-groq
+python-dotenv
 ipykernel
+
+# LLMs and APIs
+openai
+langchain-openai
+langchain-groq
+
+# Data Loading & Preprocessing
 pypdf
 bs4
 arxiv
 wikipedia
 langchain-text-splitters
-langchain-openai
-chromadb
-sentence_transformers
-langchain_huggingface
-faiss_cpu
-duckdb
 pandas
-openai
-langchain-groq
+duckdb
+
+# Embeddings and Vector Stores
+sentence_transformers
+langchain-huggingface
+chromadb
 langchain-chroma
+faiss_cpu
+
+# Misc Deep Learning (Optional)
 tf-keras
